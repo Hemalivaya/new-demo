@@ -37,7 +37,33 @@ a{
     margin-left: 100px;
     text-align: center;    
 }
+#Search {
+    width: 100px;
+    height: 15px;
+    margin-left: 100px;
+}
+
+/** add icon near search bar**/
+
 a:hover {
     border: 3.5px,solid,#FFD31D;
   
+}
+#Search:hover {
+    border: 3.5px,solid,#FFD31D;
+}
+
+
+/** enter intoo content area**/
+
+#image {
+    height: 10px;
+    width: 10px;
+    background-repeat: repeat;
+}
+
+
+.trr {
+    {
+
 }
