@@ -12,3 +12,32 @@ header {
     font-size: 60px;
     line-height: normal;
 }
+
+#tagline {
+    font-size: 25px;
+    text-shadow: #ac898d;
+    margin-bottom: 15px;
+}
+
+/** second row **/
+
+.sr {
+    background-color: #D63447;
+    height: 142px;
+    display: flex;
+    align-items: center;
+}
+
+.panel {
+    color:#FFD31D;
+    font-size: 15px;
+}
+
+a{
+    margin-left: 100px;
+    text-align: center;    
+}
+a:hover {
+    border: 3.5px,solid,#FFD31D;
+  
+}
