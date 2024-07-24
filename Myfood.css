@@ -11,12 +11,14 @@ header {
     color: #D63447;
     font-size: 60px;
     line-height: normal;
+ 
 }
 
 #tagline {
     font-size: 25px;
     text-shadow: #ac898d;
     margin-bottom: 15px;
+
 }
 
 /** second row **/
@@ -35,7 +37,7 @@ header {
 
 a{
     margin-left: 100px;
-    text-align: center;    
+    text-align: center;   
 }
 #Search {
     width: 100px;
@@ -60,10 +62,4 @@ a:hover {
     height: 10px;
     width: 10px;
     background-repeat: repeat;
-}
-
-
-.trr {
-    {
-
 }
